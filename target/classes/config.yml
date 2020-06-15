@@ -1,0 +1,7 @@
+mySQL:
+  host: "na01-sql.pebblehost.com"
+  port: 3306
+  databaseName: "customer_110109_edgetokens"
+  username: "customer_110109_edgetokens"
+  password: "pP0WXeqPNQNExV#VSFh9"
+  table: "EdgeTokens"

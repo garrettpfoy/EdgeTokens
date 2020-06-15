@@ -1,0 +1,6 @@
+main: org.edgegamers.picklez.Main.EdgeTokens
+name: EdgeTokens
+version: 1.8.6-BETA
+api-version: 1.15
+description: mySQL based Events Token Plugin built for Edge-Gamers Minecraft Server
+author: PickleZ / Garrett Foy
